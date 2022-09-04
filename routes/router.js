@@ -67,6 +67,4 @@ function getExtension(fileName) {
   }
 }
 
-/* */
-
 module.exports = router;
